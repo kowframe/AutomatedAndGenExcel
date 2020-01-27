@@ -14,7 +14,7 @@ The Story:
   User: "Thank you!"
   
 Code working:
-1.Go to the link in code. (hard code)
+1.Go to the link in code. (hard code) </br>
 2.Find a link and get.
 3.Go to a link that I got.
 4.Get HTML Table.
