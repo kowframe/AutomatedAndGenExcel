@@ -18,6 +18,6 @@ Code working: </br>
 2.Find a link and get. </br>
 3.Go to a link that I got. </br>
 4.Get HTML Table. </br>
-5.Generate to Excel. /n
+5.Generate to Excel. </br>
 6.Loop this until it's done.
  
