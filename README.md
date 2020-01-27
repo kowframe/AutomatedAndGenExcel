@@ -5,7 +5,7 @@ The Story: </br>
   User: "I want to get all data in this link, can you help me to do this ?" </br>
   Me: "I never write a Python before, it will be late. are you ok ?" </br>
   User: "Ok." </br>
-  Me: *Ask google* </br>
+  Me: **Ask google** </br>
   === 2 hours later === </br>
   Me: "Done. without loop" </br>
   </br>
